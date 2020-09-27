@@ -1,6 +1,7 @@
 "# IweekChihuahua" 
-# Educommerce 
+# Educommerce WEB
 LINK PROYECTO WEB https://github.com/javierflo88/iweekedcommerce2
+# Educommerce BOT
 LINK BOT https://www.messenger.com/t/Infinity.AgencyJRZ
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
