@@ -32,4 +32,4 @@ Realizar un manejor Estados Provider(49% completado)
 
 
 # SCREENS !
-![Alt text](/../<branch name>/Screenshot_1600239421.png?raw=true "Optional Title")
+![image](https://github.com/javierflo88/IweekChihuahua/blob/master/Screenshot_1601163346.png)
