@@ -32,4 +32,7 @@ Realizar un manejor Estados Provider(49% completado)
 
 
 # SCREENS !
-![image](https://github.com/javierflo88/IweekChihuahua/blob/master/Screenshot_1601163346.png)
+![image](https://github.com/javierflo88/IweekChihuahua/blob/master/Screenshot_1601182167.png)
+![image](https://github.com/javierflo88/IweekChihuahua/blob/master/Screenshot_1601182152.png)
+![image](https://github.com/javierflo88/IweekChihuahua/blob/master/Screenshot_1601182144.png)
+
